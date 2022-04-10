@@ -2,7 +2,7 @@
   "name": "ts-essentials",
   "version": "1.0.0",
   "description": "A set of functions to be used in any js or ts project",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "build": "tsc"
   },
