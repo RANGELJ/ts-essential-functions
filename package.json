@@ -1,5 +1,5 @@
 {
-  "name": "ts-essentials",
+  "name": "ts-essential-functions",
   "version": "1.0.0",
   "description": "A set of functions to be used in any js or ts project",
   "main": "./src/index.js",
