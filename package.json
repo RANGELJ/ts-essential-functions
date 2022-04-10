@@ -1,0 +1,22 @@
+{
+  "name": "ts-essentials",
+  "version": "1.0.0",
+  "description": "A set of functions to be used in any js or ts project",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RANGELJ/ts-essentials.git"
+  },
+  "author": "Rangel Peralta Jorge Luis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RANGELJ/ts-essentials/issues"
+  },
+  "homepage": "https://github.com/RANGELJ/ts-essentials#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
